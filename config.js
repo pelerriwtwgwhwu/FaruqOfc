@@ -7,11 +7,11 @@
 // • Nurutomo
 // • Bochilgaming
 // • Rominaru
-// • Kannachann
+// • Faruqofcxz
 // • The.Sad.Boy01
 // • Rasel comel
 // • Xtreshe (Beban)
-// • Dll
+// • kannachan
 
 //[!] Jangan Dihapus, mending ditambahin 
 
@@ -44,9 +44,9 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // Wajib diisi ya kak!, kalo ga punya biarin aja, biar ada creditsnya :v
-global.sig = 'https://www.instagram.com/xinzuo_bot'
-global.sgh = 'https://github.com/DenzzHuangZhen'
-global.sgc = 'https://chat.whatsapp.com/D8myLoppX2HJPHVzvKbxCa'
+global.sig = 'https://www.instagram.com/Faruqofx'
+global.sgh = 'https://github.com/private:v'
+global.sgc = 'https://chat.whatsapp.com/HhuNmkDxjbV1b062j9DEbj'
 global.sdc = " "
 global.snh = 'https://nhentai.net/g/365296/'
 
@@ -59,18 +59,18 @@ global.ppulsa2 = '-'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285848379210'
-global.nomorown = '6285642625763'
-global.namebot = 'xinzuo-bot'
-global.nameown = 'DenzzXDev Xinzuo'
+global.nomorbot = '6283150915460'
+global.nomorown = '6285807264974'
+global.namebot = 'Kisara Botz'
+global.nameown = 'Faruqofc Pelerxyz'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285642625763'],
-  ['6285642625763'],
-  ['6285642625763'],
-  ['6285642625763', 'Dev Xinzuo', true]
+  ['6285807264974'],
+  ['6285807264974'],
+  ['6285807264974'],
+  ['6285807264974', 'Dev Xinzuo', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -174,7 +174,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
 global.stickpack = '.'
-global.stickauth = `☂︎scraping xinzuo`
+global.stickauth = `☂︎scraping faruqofcx`
 
 global.multiplier = 38 // The higher, The harder levelup
 
