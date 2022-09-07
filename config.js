@@ -51,7 +51,7 @@ global.sdc = " "
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085334930628'
+global.pdana = '085807264974'
 global.povo = '-'
 global.pgopay = '-'
 global.ppulsa = '-'
@@ -70,7 +70,7 @@ global.owner = [
   ['6285807264974'],
   ['6285807264974'],
   ['6285807264974'],
-  ['6285807264974', 'Dev Xinzuo', true]
+  ['6285807264974', 'Dev Faruq', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -115,12 +115,12 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Xinzuo あ⁩ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Xinzuo Chan˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm = '                「 Feler あ⁩ 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Feler Chan˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 global.wm3 = '⫹⫺ Xinzuo 𝗕𝗢𝗧'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = '🍁Publik BOT | 🌱Xinzuo'
+global.titlebot = '🍁Publik BOT | 🌱Feler'
 global.author = global.wm
 
 
